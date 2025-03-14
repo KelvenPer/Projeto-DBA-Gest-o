@@ -81,3 +81,34 @@ Desenvolver um sistema de banco de dados capaz de:
 
 ## 📁 Estrutura de Diretórios
 
+
+---
+
+## 🧠 Aprendizados
+
+Com este projeto, exercitamos:
+- Modelagem de dados relacional (DER e MER);
+- Criação de tabelas com constraints (`PRIMARY KEY`, `FOREIGN KEY`);
+- Otimização com `ÍNDICES`, `VIEWS` e `STORED PROCEDURES`;
+- Consultas complexas com `JOINs`, `GROUP BY`, `HAVING`, `LIKE`;
+- Boas práticas com normalização e integridade referencial.
+
+---
+
+## 🚀 Futuras Melhorias
+
+- Interface gráfica com Python (Tkinter ou PyQt);
+- Painel Web com React ou Vue;
+- Integração com API RESTful;
+- Exportação de relatórios em PDF ou Excel.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Kelven Silva**  
+📧 [kelvenpersilva@gmail.com]  
+🔗 [https://www.linkedin.com/in/kelven-silva-83677414b/]
+
+---
+
